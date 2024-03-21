@@ -1,4 +1,4 @@
 # html-css
- Curso 
+ Curso  
 
-Estou aprendendo a criar site e gerenciar repositorios 
+Estou aprendendo a criar site e gerenciar repositorios e também estou aprendendo subir meu site.
